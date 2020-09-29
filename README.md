@@ -32,6 +32,9 @@
     * Quando aberto a janela do Maven build em "Goals" escrever "package", dar um Apply e logo após Run
     * Com isso o JAR será criado com as depêndencias
     * Após finalizar tudo será necessário colocar o JAR "importador-ronda-senior-x-1.0.0.jar" dentro da pasta jar que se encontra na raiz do projeto e comitar
+	
+Teste
+	
     
 
 
